@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel🖥
 
 - 🙃 Pronouns: He/Him
-- C#/Typescript student
+- C#/Java student
 
 ### Discord Status
 <a href="https://discord.com/users/829610319932293150">
