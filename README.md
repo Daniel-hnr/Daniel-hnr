@@ -4,7 +4,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-hnr&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-hnr&theme=tokyonight" alt="candida18"  /></p>
 
 
 ## 🛠️ My Skills
