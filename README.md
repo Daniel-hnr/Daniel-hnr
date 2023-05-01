@@ -47,4 +47,3 @@
 
 <br/>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel)](https://github.com/Daniel/github-readme-activity-graph)
