@@ -25,6 +25,12 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
+  
+  &emsp;
+   <a href="" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%2314354C.svg?logo=Rust&logoColor=orange">
+  </a>
+  &emsp;
 </p>
 
 
