@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm daniel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
 <br>
-<h2>Learning embedded systems at the moment</h2>
+<h4>Learning embedded systems at the moment</h4>
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-hnr&theme=tokyonight" alt="candida18"  /></p>
 
