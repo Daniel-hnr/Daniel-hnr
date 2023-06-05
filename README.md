@@ -3,7 +3,9 @@
 <hr/>
 <h4>Learning embedded systems at the moment</h4>
 <hr/>
-### 🔥 Streak Stats
+
+## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-hnr&theme=tokyonight" alt="candida18"  /></p>
 
 
