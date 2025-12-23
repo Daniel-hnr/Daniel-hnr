@@ -4,9 +4,6 @@
 <h4>Learning embedded systems at the moment</h4>
 <hr/>
 
-## 🔥 Streak Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Daniel-hnr&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ## 🛠️ My Skills
