@@ -6,7 +6,7 @@
 
 ## 🔥 Streak Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-hnr&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Daniel-hnr&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ## 🛠️ My Skills
