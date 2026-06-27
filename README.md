@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi , I'm daniel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4>Interested In :</h4>
-<h2>Embedded system</h2>
-<h2>Computer architecture</h2>
-<h2>fpga</h2>
+<h4>Interested In :</h2>
+<h4>Embedded system</h4>
+<h4>Computer architecture</h4>
+<h4>fpga</h4>
 <hr/>
 
 
